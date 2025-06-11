@@ -16,6 +16,7 @@ https://doi.org/10.15252/msb.20145216
 * Avana_sgrna_raw_readcounts_matched.csv
 * Avana_sgrnamapping.csv
 
-https://www.doi.org/10.6084/m9.figshare.6002438
+
 
 from Data.zip
+https://www.doi.org/10.6084/m9.figshare.6002438
