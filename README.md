@@ -2,7 +2,9 @@
 This is a sample R code to perform the analyses in "Gene and cell line efficiency of CRISPR computed by tensor decomposition in genome-wide CRISPR-Cas9 knockout screens".
 
 The following files must be downlaoded
+
 *msb145216-sup-0001-datasets1.xlsx
+
 *msb145216-sup-0004-datasets4.xlsx
 
 https://doi.org/10.15252/msb.20145216
