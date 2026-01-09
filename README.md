@@ -37,4 +37,4 @@ It requires JACKS.ZIP from https://www.doi.org/10.6084/m9.figshare.6002438, esse
 
 To compute AUC for DepMap for Avana cell line.
 
-It requires CRISPRGeneEffect.csv and Model,csv from https://depmap.org/portal/data_page/?tab=allData (25Q3), essential.txt, nonessential.txt.
+It requires CRISPRGeneEffect.csv and Model.csv from https://depmap.org/portal/data_page/?tab=allData (25Q3), essential.txt, nonessential.txt.
