@@ -24,9 +24,7 @@ https://www.doi.org/10.6084/m9.figshare.6002438
 #------
 
 In addition to above, two additional R files are added to address reviwers' comments.
-
 jacks_auc.R
-
 To comute AUC for JACKS using the standard procedure
 
 It requires JACKS.ZIP from https://www.doi.org/10.6084/m9.figshare.6002438, essential.txt, nonessential.txt.
