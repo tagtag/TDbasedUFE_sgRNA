@@ -24,15 +24,16 @@ https://www.doi.org/10.6084/m9.figshare.6002438
 #------
 
 In addition to above, two additional R files are added to address reviwers' comments.
-jacks_auc.R
+
+* jacks_auc.R
+
 To comute AUC for JACKS using the standard procedure
 
 It requires JACKS.ZIP from https://www.doi.org/10.6084/m9.figshare.6002438, essential.txt, nonessential.txt.
 
 
-make_model_ids_from_jacks_avana_v2.R
-
-depmap_chronos_mean_auc_fixed.R
+*make_model_ids_from_jacks_avana_v2.R
+*depmap_chronos_mean_auc_fixed.R
 
 To compute AUC for DepMap for Avana cell line.
 
