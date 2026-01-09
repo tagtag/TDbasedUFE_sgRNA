@@ -1,5 +1,5 @@
 # TDbasedUFE_sgRNA
-This is a sample R code to perform the analyses in "Gene and cell line efficiency of CRISPR computed by tensor decomposition in genome-wide CRISPR-Cas9 knockout screens".
+This is a sample R code to perform the analyses in "Gene and cell line efficiency of CRISPR computed by tensor decomposition in genome-wide CRISPR-Cas9 knockout screens". https://doi.org/10.1101/2025.06.12.659265
 
 The following files must be downlaoded
 
