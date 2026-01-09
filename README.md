@@ -23,7 +23,7 @@ https://www.doi.org/10.6084/m9.figshare.6002438
 
 #------
 
-In addition to above, two additional R files are added to address reviwers' comments.
+In addition to above, three additional R files are added to address reviwers' comments.
 
 * jacks_auc.R
 
